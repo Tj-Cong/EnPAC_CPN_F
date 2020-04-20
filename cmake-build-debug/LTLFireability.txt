@@ -1,0 +1,1 @@
+GlobalResAllocation-COL-09-LTLFireability-12:X((({enter1,})U({enter2,}))U({enter2,}))

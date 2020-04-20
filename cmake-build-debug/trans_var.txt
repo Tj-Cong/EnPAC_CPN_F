@@ -1,0 +1,2 @@
+mainprocess: varx
+otherprocess: vari varx vary

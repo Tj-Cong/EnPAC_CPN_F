@@ -1,0 +1,16 @@
+FamilyReunion-COL-L00200M0020C010P010G005-LTLCardinality-00:X(<>(<>(<>({1<=token-count(m1,)}))))
+FamilyReunion-COL-L00200M0020C010P010G005-LTLCardinality-01:X(<>(X(X({2<=token-count(lm4,)}))))
+FamilyReunion-COL-L00200M0020C010P010G005-LTLCardinality-02:({token-count(lm4,)<=token-count(g4,)})U({token-count(l36,)<=token-count(l30,)})
+FamilyReunion-COL-L00200M0020C010P010G005-LTLCardinality-03:{3<=token-count(g2,)}
+FamilyReunion-COL-L00200M0020C010P010G005-LTLCardinality-04:<>({3<=token-count(p7,)})
+FamilyReunion-COL-L00200M0020C010P010G005-LTLCardinality-05:X(({1<=token-count(l39,)})U({token-count(ml0,)<=token-count(c5,)}))
+FamilyReunion-COL-L00200M0020C010P010G005-LTLCardinality-06:{2<=token-count(p4,)}
+FamilyReunion-COL-L00200M0020C010P010G005-LTLCardinality-07:(X(<>({3<=token-count(p1,)})))U(({token-count(l11,)<=token-count(p2,)})U({1<=token-count(l3,)}))
+FamilyReunion-COL-L00200M0020C010P010G005-LTLCardinality-08:[](<>(<>([]({2<=token-count(p2,)}))))
+FamilyReunion-COL-L00200M0020C010P010G005-LTLCardinality-09:({2<=token-count(l20,)})U(<>(<>({3<=token-count(l27,)})))
+FamilyReunion-COL-L00200M0020C010P010G005-LTLCardinality-10:{3<=token-count(ml1,)}
+FamilyReunion-COL-L00200M0020C010P010G005-LTLCardinality-11:X(X([]([]({2<=token-count(p3,)}))))
+FamilyReunion-COL-L00200M0020C010P010G005-LTLCardinality-12:<>(([]({token-count(pl1,)<=token-count(l25,)}))U({token-count(ml0,)<=token-count(l17,)}))
+FamilyReunion-COL-L00200M0020C010P010G005-LTLCardinality-13:{2<=token-count(l2,)}
+FamilyReunion-COL-L00200M0020C010P010G005-LTLCardinality-14:(X(X({2<=token-count(l23,)})))U(X([]({token-count(gl0,)<=token-count(l29,)})))
+FamilyReunion-COL-L00200M0020C010P010G005-LTLCardinality-15:{2<=token-count(c2,)}

@@ -1,0 +1,3 @@
+PLACE INFO {
+	state 1'[process0process0]+1'[process1process1]+1'[process2process2]+1'[process3process3]+1'[process4process4]+1'[process5process5]+1'[process6process6]+1'[process7process7]+1'[process8process8]+1'[process9process9]+1'[process10process10]+1'[process11process11]+1'[process12process12]+1'[process13process13]+1'[process14process14]+1'[process15process15]+
+}

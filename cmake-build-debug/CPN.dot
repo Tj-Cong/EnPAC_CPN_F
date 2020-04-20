@@ -1,0 +1,10 @@
+digraph CPN {
+	state [shape=circle]
+
+	mainprocess [shape=box]
+	otherprocess [shape=box,label="otherprocess//((vari)!=(process0))&&((varx)!=(vary))"]
+	mainprocess->state [label="1'[process0,varx++]+1'[process15,varx]"]
+	state->mainprocess [label="1'[process0,varx]+1'[process15,varx]"]
+	otherprocess->state [label="1'[vari,vary]+1'[vari--,vary]"]
+	state->otherprocess [label="1'[vari,varx]+1'[vari--,vary]"]
+}

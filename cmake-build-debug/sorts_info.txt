@@ -1,0 +1,20 @@
+USERSORT:
+name: process
+constants: (process0,process1,process2,process3,process4,process5,process6,process7,process8,process9,process10,process11,process12,process13,process14,process15,)
+------------------------
+
+PRODUCTSORT:
+name: couple
+member: (process,process,)
+------------------------
+
+VARIABLES:
+name: vari
+related sort: process
+------------------------
+name: varx
+related sort: process
+------------------------
+name: vary
+related sort: process
+------------------------
