@@ -1,7 +1,4 @@
 # EnPAC_CPN_F
-LTLfireability algorithm
+EnPAC_CPN_F is a model checking tool for Coloured Petri nets and LTLfireability formulas. It is also a tool participating MCC (Model Checking Contest). Therefore, all its inputs and outputs comply with MCC specifications. More information about MCC, you can refer to https://mcc.lip6.fr/
 
-Input: model.pnml,LTLfireability.xml
-please organize your Petri net in a pnml file and LTL formulas in a xml file
-
-Output:checking result (true or false)
+This repository is a CLion project. You can open it directly with Clion. If you want to run it, Linux and tcmalloc are needed. 
