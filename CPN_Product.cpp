@@ -374,7 +374,7 @@ bool CPN_Product_Automata::handleLTLF(string s, CPN_RGNode *state) {
 	     * true: 只要有一个能发生
 	     * false: 都不能发生
 	     * */
-        s.substr(1,s.length()-1);//去掉‘{’
+        s=s.substr(1,s.length()-1);//去掉‘{’
 
         while(true)
         {
